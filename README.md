@@ -38,7 +38,7 @@ master-master - два или более сервера одновременно
 
 6. Создание БД на master: 
 
-<img src = "img/zadanie2.6.png" width = 100%>
+<img src = "img/zadanie2.66.png" width = 100%>
 
 7. Проверка репликации на slave:
 
